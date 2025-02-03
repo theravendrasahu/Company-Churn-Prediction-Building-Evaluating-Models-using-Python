@@ -1,7 +1,3 @@
-Here is a detailed **README.md** file for your **Telco Customer Churn Analysis** GitHub repository. It includes an introduction, dataset details, methodology, key findings, recommendations, technologies used, and how others can explore the project. 🚀  
-
----
-
 ### **📌 Telco Customer Churn Analysis**  
 
 📊 **Understanding Why Customers Leave & How to Improve Retention**  
@@ -17,6 +13,7 @@ Here is a detailed **README.md** file for your **Telco Customer Churn Analysis**
 - [Conclusion](#conclusion)  
 
 ---
+
 
 ## **📌 Overview**  
 Customer churn is a major challenge for telecom companies, impacting revenue and long-term business growth. This project explores a **Telco Customer Churn dataset** to identify key factors influencing customer retention and churn.  
