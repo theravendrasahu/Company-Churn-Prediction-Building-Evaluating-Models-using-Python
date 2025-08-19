@@ -75,8 +75,7 @@ The dataset consists of customer information, service usage details, and churn l
 ## **⚡ How to Use This Project**  
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/telco-customer-churn-analysis.git
-cd telco-customer-churn-analysis
+git clone [https://github.com/yourusername/telco-customer-churn-analysis]
 ```
 
 ### **2️⃣ Install Dependencies**  
