@@ -1,3 +1,5 @@
+<img width="973" height="848" alt="image" src="https://github.com/user-attachments/assets/1731cc38-8a25-42fd-905f-24c89c16d049" />
+
 ### **📌 Telco Customer Churn Analysis**  
 
 📊 **Understanding Why Customers Leave & How to Improve Retention**  
